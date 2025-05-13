@@ -5,7 +5,7 @@ Notes: Performance veries for every device [Xbox, PlayStation, or PC] there may 
 
 For the best results stop your server before making any changes. Especially when uploading the Areaflags.map file.
 
-Upload the areaflags.map file in the dayzOffline.Chernarus main folder, it will automatically replace the vanilla version.
+Unzip and Upload the areaflags.map file in the dayzOffline.Chernarus main folder, it will automatically replace the vanilla version.
 
 In your Custom folder add the AlkatrazByXMC.json file
 
